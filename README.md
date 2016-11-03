@@ -20,4 +20,6 @@ python btcavg-apiv2auth.py
 Alternatively without virtualenv:
 apt-get install python-requests
 python btcavg-apiv2auth.py
+
+Keywords: BitcoinAverage, API, APIv2, python, authentication, bitcoinaverage.com
 </pre>
